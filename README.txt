@@ -17,10 +17,10 @@
 %    see <http://www.gnu.org/licenses/>.
 
 This toolbox contains the following functions:
-	RK.m - Estimates solution to least squares problem using randomized kaczmarz
-	REK.m - Estimates solution to least squares problem using randomized extended kaczmarz
-	RGS.m - Estimates solution to least squares problem using randomized gauss seidel
-	REGS.m - Estimates solution to least squares problem using randomized extended gauss seidel
+	RK.m - Estimates solution to linear systems using randomized kaczmarz
+	REK.m - Estimates solution to linear systems using randomized extended kaczmarz
+	RGS.m - Estimates solution to linear systems using randomized gauss seidel
+	REGS.m - Estimates solution to linear systems using randomized extended gauss seidel
 	create_ls.m - Creates different linear system settings
 	demo_regs.m - Runs a demo of the regs tool box for underdetermined system
 	demo_plot.m - Runs plotting script for demo_regs.m
